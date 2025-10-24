@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\logueousuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\logueousuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\conexionbdd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\conexionbdd.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\my project\\registrousuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\my project\\registrousuarios.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\formregistros.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\formregistros.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\formregistros.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\formregistros.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\ventasitems.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\ventasitems.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\productos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\menuinicial.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\menuinicial.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\clientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|c:\\users\\pc-1\\desktop\\tpfinal\\tpfinal\\tpfinal\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1DB0DB73-1374-4314-9A45-8FCE1F7305AC}|TpFinal\\TpFinal.vbproj|solutionrelative:tpfinal\\ventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroUsuarios.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\My Project\\RegistroUsuarios.vb",
+              "RelativeDocumentMoniker": "TpFinal\\My Project\\RegistroUsuarios.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\My Project\\RegistroUsuarios.vb",
+              "RelativeToolTip": "TpFinal\\My Project\\RegistroUsuarios.vb",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\LogIn.vb",
+              "RelativeDocumentMoniker": "TpFinal\\LogIn.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\LogIn.vb [Dise\u00F1o]",
+              "RelativeToolTip": "TpFinal\\LogIn.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.306Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogueoUsuarios.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\LogueoUsuarios.vb",
+              "RelativeDocumentMoniker": "TpFinal\\LogueoUsuarios.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\LogueoUsuarios.vb",
+              "RelativeToolTip": "TpFinal\\LogueoUsuarios.vb",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogIn.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\LogIn.vb",
+              "RelativeDocumentMoniker": "TpFinal\\LogIn.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\LogIn.vb",
+              "RelativeToolTip": "TpFinal\\LogIn.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA1wBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRegistros.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\FormRegistros.vb",
+              "RelativeDocumentMoniker": "TpFinal\\FormRegistros.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\FormRegistros.vb [Dise\u00F1o]",
+              "RelativeToolTip": "TpFinal\\FormRegistros.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.314Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionBDD.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\ConexionBDD.vb",
+              "RelativeDocumentMoniker": "TpFinal\\ConexionBDD.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\ConexionBDD.vb",
+              "RelativeToolTip": "TpFinal\\ConexionBDD.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormRegistros.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\FormRegistros.vb",
+              "RelativeDocumentMoniker": "TpFinal\\FormRegistros.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\FormRegistros.vb",
+              "RelativeToolTip": "TpFinal\\FormRegistros.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ventasitems.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\ventasitems.vb",
+              "RelativeDocumentMoniker": "TpFinal\\ventasitems.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\ventasitems.vb",
+              "RelativeToolTip": "TpFinal\\ventasitems.vb",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwE0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "productos.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\productos.vb",
+              "RelativeDocumentMoniker": "TpFinal\\productos.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\productos.vb",
+              "RelativeToolTip": "TpFinal\\productos.vb",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwEgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuInicial.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\MenuInicial.vb",
+              "RelativeDocumentMoniker": "TpFinal\\MenuInicial.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\MenuInicial.vb",
+              "RelativeToolTip": "TpFinal\\MenuInicial.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ventas.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\ventas.vb",
+              "RelativeDocumentMoniker": "TpFinal\\ventas.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\ventas.vb",
+              "RelativeToolTip": "TpFinal\\ventas.vb",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clientes.vb",
+              "DocumentMoniker": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\clientes.vb",
+              "RelativeDocumentMoniker": "TpFinal\\clientes.vb",
+              "ToolTip": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\clientes.vb",
+              "RelativeToolTip": "TpFinal\\clientes.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-24T00:04:30.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

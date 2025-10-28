@@ -5,7 +5,7 @@
     End Sub
 
     Private Sub btnIniciarSesion_Click(sender As Object, e As EventArgs) Handles btnIniciarSesion.Click
-        If txtUsuarioLogIn.Text <> "" And txtContraseñaLogIn.Text <> "" Then
+        If Not String.IsNullOrWhiteSpace(txtUsuarioLogIn.Text) And Not String.IsNullOrWhiteSpace(txtContraseñaLogIn.Text) Then
             UsuarioLogueado = New LogueoUsuarios(txtUsuarioLogIn.Text, txtContraseñaLogIn.Text)
 
             If UsuarioLogueado.CorroborarDatos() = True Then

@@ -60,12 +60,13 @@ Public Class RegistroUsuarios
             MessageBox.Show("Se produjo un error " + ex.ToString)
         Finally
             If lector IsNot Nothing Then lector.Close()
+
             cerrarConexion()
         End Try
         Return resultado
     End Function
     Public Sub RegistrarUsuarios()
-        If (CorroborarDatos() = False And Not String.IsNullOrEmpty(Me.contraseña) And Not String.IsNullOrEmpty(Me.usuario)) Then
+        If (CorroborarDatos() = False And Not String.IsNullOrWhiteSpace(Me.contraseña) And Not String.IsNullOrWhiteSpace(Me.usuario)) Then
             Dim objetoConexion As ConexionBDD = New ConexionBDD()
             Try
                 Dim consulta As String = "INSERT INTO login(usuario,contraseña)VALUES(@usuario,@contraseña);"

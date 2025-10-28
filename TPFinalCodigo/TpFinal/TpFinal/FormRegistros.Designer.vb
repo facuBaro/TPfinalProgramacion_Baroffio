@@ -131,6 +131,7 @@ Partial Class FormRegistros
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(275, 311)
+        ControlBox = False
         Controls.Add(btnAtrasRegistrar)
         Controls.Add(btnRegistrar)
         Controls.Add(txtConfirContrRegistro)

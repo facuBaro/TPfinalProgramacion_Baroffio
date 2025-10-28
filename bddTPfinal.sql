@@ -1,6 +1,6 @@
 -- --------------------------------------------------------
 -- Host:                         127.0.0.1
--- Versión del servidor:         9.0.1 - MySQL Community Server - GPL
+-- Versión del servidor:         10.4.14-MariaDB - mariadb.org binary distribution
 -- SO del servidor:              Win64
 -- HeidiSQL Versión:             12.8.0.6908
 -- --------------------------------------------------------
@@ -16,68 +16,79 @@
 
 
 -- Volcando estructura de base de datos para proyectofinalbdd
-CREATE DATABASE IF NOT EXISTS `proyectofinalbdd` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+CREATE DATABASE IF NOT EXISTS `proyectofinalbdd` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
 USE `proyectofinalbdd`;
 
 -- Volcando estructura para tabla proyectofinalbdd.clientes
 CREATE TABLE IF NOT EXISTS `clientes` (
-  `id_cliente` int NOT NULL AUTO_INCREMENT,
-  `telefono` int NOT NULL DEFAULT '0',
-  `correo` varchar(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
-  `nombre` varchar(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
-  PRIMARY KEY (`id_cliente`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+  `id_cliente` int(11) NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(50) NOT NULL,
+  `telefono` varchar(50) NOT NULL,
+  `correo` varchar(50) NOT NULL,
+  `activo` varchar(50) NOT NULL DEFAULT 'si',
+  PRIMARY KEY (`id_cliente`),
+  UNIQUE KEY `telefono` (`telefono`),
+  UNIQUE KEY `correo` (`correo`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4;
 
--- Volcando datos para la tabla proyectofinalbdd.clientes: ~0 rows (aproximadamente)
+-- Volcando datos para la tabla proyectofinalbdd.clientes: ~3 rows (aproximadamente)
+INSERT INTO `clientes` (`id_cliente`, `nombre`, `telefono`, `correo`, `activo`) VALUES
+	(2, 'juan', '231553', 'juan08@gmail.com', 'si'),
+	(3, 'ana', '314324321', 'ana@gmail.com', 'si'),
+	(4, 'oscar', '1234332', 'oscar@gmail.com', 'si');
 
 -- Volcando estructura para tabla proyectofinalbdd.login
 CREATE TABLE IF NOT EXISTS `login` (
-  `id_Login` int NOT NULL AUTO_INCREMENT,
+  `id_Login` int(11) NOT NULL AUTO_INCREMENT,
   `usuario` varchar(50) NOT NULL,
   `contraseña` varchar(50) NOT NULL,
   PRIMARY KEY (`id_Login`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4;
 
--- Volcando datos para la tabla proyectofinalbdd.login: ~0 rows (aproximadamente)
+-- Volcando datos para la tabla proyectofinalbdd.login: ~2 rows (aproximadamente)
+INSERT INTO `login` (`id_Login`, `usuario`, `contraseña`) VALUES
+	(1, 'facu', 'fbg123'),
+	(2, 'natha', '1234');
 
 -- Volcando estructura para tabla proyectofinalbdd.productos
 CREATE TABLE IF NOT EXISTS `productos` (
-  `id_producto` int NOT NULL AUTO_INCREMENT,
+  `id_producto` int(11) NOT NULL AUTO_INCREMENT,
   `Nombre` varchar(50) NOT NULL,
-  `Precio` int NOT NULL,
+  `Precio` int(11) NOT NULL,
   `categoria` varchar(50) NOT NULL,
-  PRIMARY KEY (`id_producto`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+  `activo` varchar(50) NOT NULL DEFAULT 'si',
+  PRIMARY KEY (`id_producto`),
+  UNIQUE KEY `Nombre` (`Nombre`)
+) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8mb4;
 
--- Volcando datos para la tabla proyectofinalbdd.productos: ~0 rows (aproximadamente)
+-- Volcando datos para la tabla proyectofinalbdd.productos: ~4 rows (aproximadamente)
+INSERT INTO `productos` (`id_producto`, `Nombre`, `Precio`, `categoria`, `activo`) VALUES
+	(1, 'pepsi', 2310, 'bebidas', 'si'),
+	(2, 'manaosUva', 2000, 'bebidas', 'si'),
+	(3, 'manaosNaranja', 2000, 'bebidas', 'si'),
+	(5, 'rex', 1332, 'snack', 'no');
 
 -- Volcando estructura para tabla proyectofinalbdd.ventas
 CREATE TABLE IF NOT EXISTS `ventas` (
-  `id_ventas` int NOT NULL AUTO_INCREMENT,
-  `id_cliente` int NOT NULL,
+  `id_ventas` int(11) NOT NULL AUTO_INCREMENT,
+  `id_cliente` int(11) NOT NULL,
   `fecha` date NOT NULL,
-  `total` int NOT NULL,
-  PRIMARY KEY (`id_ventas`),
-  KEY `id_cliente` (`id_cliente`),
-  CONSTRAINT `id_cliente` FOREIGN KEY (`id_cliente`) REFERENCES `clientes` (`id_cliente`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+  `total` int(11) NOT NULL,
+  PRIMARY KEY (`id_ventas`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- Volcando datos para la tabla proyectofinalbdd.ventas: ~0 rows (aproximadamente)
 
 -- Volcando estructura para tabla proyectofinalbdd.ventasitems
 CREATE TABLE IF NOT EXISTS `ventasitems` (
-  `id_ventasitems` int NOT NULL AUTO_INCREMENT,
-  `id_ventas` int NOT NULL,
-  `id_producto` int NOT NULL,
-  `preciounitario` int NOT NULL,
-  `cantidad` int NOT NULL,
-  `preciototal` int NOT NULL,
-  PRIMARY KEY (`id_ventasitems`),
-  KEY `id_ventas` (`id_ventas`),
-  KEY `id_producto` (`id_producto`),
-  CONSTRAINT `id_producto` FOREIGN KEY (`id_producto`) REFERENCES `productos` (`id_producto`),
-  CONSTRAINT `id_ventas` FOREIGN KEY (`id_ventas`) REFERENCES `ventas` (`id_ventas`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+  `id_ventasitems` int(11) NOT NULL AUTO_INCREMENT,
+  `id_ventas` int(11) NOT NULL,
+  `id_producto` int(11) NOT NULL,
+  `preciounitario` int(11) NOT NULL,
+  `cantidad` int(11) NOT NULL,
+  `preciototal` int(11) NOT NULL,
+  PRIMARY KEY (`id_ventasitems`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- Volcando datos para la tabla proyectofinalbdd.ventasitems: ~0 rows (aproximadamente)
 

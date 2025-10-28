@@ -1609,19 +1609,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC-1\\.nuget\\packages\\": {}
+    "C:\\Users\\Estudiante\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\TpFinal.vbproj",
+      "projectUniqueName": "C:\\Users\\Estudiante\\Desktop\\TrabajoFinalBaroffio 5°7°\\TPFinal\\TpFinal\\TpFinal\\TpFinal.vbproj",
       "projectName": "TpFinal",
-      "projectPath": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\TpFinal.vbproj",
-      "packagesPath": "C:\\Users\\PC-1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC-1\\Desktop\\TPFinal\\TpFinal\\TpFinal\\obj\\",
+      "projectPath": "C:\\Users\\Estudiante\\Desktop\\TrabajoFinalBaroffio 5°7°\\TPFinal\\TpFinal\\TpFinal\\TpFinal.vbproj",
+      "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Estudiante\\Desktop\\TrabajoFinalBaroffio 5°7°\\TPFinal\\TpFinal\\TpFinal\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\PC-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1629,7 +1634,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1642,11 +1646,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1677,7 +1676,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

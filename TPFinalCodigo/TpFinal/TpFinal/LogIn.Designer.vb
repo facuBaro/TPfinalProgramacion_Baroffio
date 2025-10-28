@@ -127,6 +127,7 @@ Partial Class LogIn
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.White
         ClientSize = New Size(315, 307)
+        ControlBox = False
         Controls.Add(LinkLabelRegistrarse)
         Controls.Add(Label4)
         Controls.Add(btnIniciarSesion)

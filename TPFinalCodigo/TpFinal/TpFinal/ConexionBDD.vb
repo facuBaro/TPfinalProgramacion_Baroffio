@@ -2,7 +2,7 @@
 Public Class ConexionBDD
 
     Protected conexion As MySqlConnection = New MySqlConnection()
-    Private cadenaConexion As String = "server=localhost;port=3000;user id=root;password=;database=proyectofinalbdd"
+    Private cadenaConexion As String = "server=localhost;port=3306;user id=root;password=root;database=proyectofinalbdd"
 
     Function establecerConexion() As MySqlConnection
 

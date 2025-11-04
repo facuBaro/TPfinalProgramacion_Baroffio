@@ -1,0 +1,186 @@
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.LogIn.resources
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.Resources.resources
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.AssemblyInfo.vb
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.exe
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.deps.json
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.runtimeconfig.json
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.pdb
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.CopyComplete
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\refint\TpFinal.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.pdb
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\ref\TpFinal.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.MenuInicial.resources
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormRegistros.resources
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormProductos.resources
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormClientes.resources
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.exe
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.deps.json
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.runtimeconfig.json
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.pdb
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormClientes.resources
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormProductos.resources
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormRegistros.resources
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.LogIn.resources
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.MenuInicial.resources
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.Resources.resources
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.AssemblyInfo.vb
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.Up2Date
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\refint\TpFinal.dll
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.pdb
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\ref\TpFinal.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.exe
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.deps.json
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.runtimeconfig.json
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.pdb
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormClientes.resources
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormProductos.resources
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormRegistros.resources
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormVentasItem.resources
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.LogIn.resources
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.MenuInicial.resources
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.Resources.resources
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.AssemblyInfo.vb
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.CopyComplete
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\refint\TpFinal.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.pdb
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\ref\TpFinal.dll
+C:\Users\Estudiante\Desktop\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormVentas.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.exe
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.deps.json
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.runtimeconfig.json
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\TpFinal.pdb
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormClientes.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormProductos.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormRegistros.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormVentas.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormVentasItem.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.LogIn.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.MenuInicial.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.Resources.resources
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.AssemblyInfo.vb
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.vbproj.CopyComplete
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\refint\TpFinal.dll
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.pdb
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\PROBANDO\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\ref\TpFinal.dll
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormVentas.resources
+C:\Users\Estudiante\Desktop\TrabajoFinalBaroffio 5°7°\TPFinal\TpFinal\TpFinal\obj\Debug\net8.0-windows\TpFinal.FormVentasItem.resources

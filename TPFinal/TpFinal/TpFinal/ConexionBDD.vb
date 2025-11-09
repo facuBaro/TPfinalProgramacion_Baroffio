@@ -14,7 +14,7 @@ Public Class ConexionBDD
             puerto = "3306"
         End If
 
-        cadenaConexion = $"server=localhost;port={puerto};user id=root;password=root;database=proyectofinalbdd"
+        cadenaConexion = $"server=localhost;port={puerto};user id=root;password=;database=proyectofinalbdd"
     End Sub
 
     Private Function LeerPuertoDesdeTxt() As String
@@ -40,7 +40,9 @@ Public Class ConexionBDD
             conexion.ConnectionString = cadenaConexion
             conexion.Open()
         Catch ex As Exception
-            MessageBox.Show("No se conectó a la base de datos: " & ex.ToString)
+            MessageBox.Show("No se conectó a la base de datos: " & vbCrLf &
+                    ex.Message & vbCrLf & vbCrLf &
+                     "Cadena usada: " & cadenaConexion)
         End Try
         Return conexion
     End Function
